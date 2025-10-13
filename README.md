@@ -1,9 +1,35 @@
+# FDANet
+
+This is the repository that contains source code for the [FDANet website](https://jangsoopark.github.io/FDANet_site/).
+
+
+
+If you find FDANet useful for your work please cite:
+```bibtex
+@ARTICLE{FDANet20XX,
+  author={Park, Jangsoo and Lee, Eunseong and Lee, Jongseok and Oh, Seung-Jun and Sim, Donggyu},
+  journal={XXXX}, 
+  title={Lightweight Attention Mechanism with Feature Difference for Efficient Change Detection in Remote Sensing}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={X--X},
+  doi={XXXX}
+}
+```
+
+
+---
+
+This repository is based on the [Nerfies website](https://nerfies.github.io/) template. Details of the original project are provided below.
+
+---
+**Original README.md**
+
 # Nerfies
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
-
 If you find Nerfies useful for your work please cite:
-```
+```bibtex
 @article{park2021nerfies
   author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
   title     = {Nerfies: Deformable Neural Radiance Fields},
