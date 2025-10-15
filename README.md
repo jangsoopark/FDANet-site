@@ -1,6 +1,6 @@
 # FDANet
 
-This is the repository that contains source code for the [FDANet website](https://jangsoopark.github.io/FDANet_site/).
+This is the repository that contains source code for the [FDANet website](https://jangsoopark.github.io/FDANet-site/).
 
 
 
